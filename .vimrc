@@ -1,3 +1,7 @@
+" This is the vimrc of Anthony Graca
+" CS Undergrad of California State Polytechnic University, Pomona
+" Class of 2018
+
 "	:r $VIMRUNTIME/vimrc_example.vim
 set nocompatible
 
